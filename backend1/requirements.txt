@@ -1,0 +1,4 @@
+fask
+fask-cors
+google-cloud-discoveryengine
+python-dotenv
